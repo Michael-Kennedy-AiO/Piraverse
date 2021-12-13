@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 76636399ccbed9b4fb543f12577e096b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Pacifico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b237b1d041059ab43b1428fb6f5e98c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

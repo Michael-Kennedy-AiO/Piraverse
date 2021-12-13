@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8febac20bf569144d99c22153bcc2448
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Altus Extra
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fae7cd309c0143c4fb5bca25837eae1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a88b156587f8db847809cb979a2746c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Kermel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98b2295bf53a3804fbdc7c7767143e47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

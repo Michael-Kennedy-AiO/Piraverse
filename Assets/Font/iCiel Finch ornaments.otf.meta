@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3bab7133a351db54f9ea0d82160f3289
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Finch Ornaments
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 796b34b9211d2b1459f5d04fc22c504e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
